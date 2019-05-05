@@ -1,5 +1,12 @@
 package com.example.splashscreen;
 
+/**nama : Gerdi Abdi Salam
+ * Kelas : AKB-11
+ * nim : 10116474
+ * tgl_pengerjaan : 30 April 2019
+ */
+
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.content.Intent;

@@ -14,6 +14,12 @@ import android.widget.RelativeLayout;
 
 public class Profile extends Fragment {
 
+    /**nama : Gerdi Abdi Salam
+     * Kelas : AKB-11
+     * nim : 10116474
+     * tgl_pengerjaan : 30 April 2019
+     */
+
     public Profile(){}
     RelativeLayout view;
 
