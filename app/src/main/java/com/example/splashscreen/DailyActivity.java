@@ -16,7 +16,7 @@ public class DailyActivity extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        view = (RelativeLayout) inflater.inflate(R.layout.slide_show, container, false);
+        view = (RelativeLayout) inflater.inflate(R.layout.dailyme, container, false);
 
         getActivity().setTitle("Daily Activity");
 

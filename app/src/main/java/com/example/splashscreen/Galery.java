@@ -9,14 +9,15 @@ import android.widget.RelativeLayout;
 
 public class Galery extends Fragment {
 
-    public Galery(){}
+    public Galery(){
+    }
     RelativeLayout view;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        view = (RelativeLayout) inflater.inflate(R.layout.tools, container, false);
+        view = (RelativeLayout) inflater.inflate(R.layout.mygallery, container, false);
 
         getActivity().setTitle("Gallery");
 
