@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Splash screen</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">This is me, Gerdi</string>
+    <string name="slide_1_desc"></string>
+
+    <string name="slide_2_title">Dear Friends</string>
+    <string name="slide_2_desc">I want to tell you something</string>
+
+    <string name="slide_3_title">What is it?</string>
+    <string name="slide_3_desc">It is about my activities</string>
+
+    <string name="slide_4_title"></string>
+    <string name="slide_4_desc">lets start it!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+</resources>
